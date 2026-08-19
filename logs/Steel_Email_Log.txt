@@ -1,0 +1,55 @@
+ایمیل فولاد - 2026-08-18 11:54
+============================================================
+SENT    ckb Meskent Group  -> info@meskent-group.com
+SENT    ckb Darin Steel  -> info@darinsteel.com
+SENT    ckb Halkawt Steel  -> info@halkawtsteel.com
+SENT    ckb Hritan Iron & Steel  -> info@hritansteel.com.iq
+SENT    ckb Hritan Iron & Steel  -> manager@hritansteel.com.iq
+SENT    ckb Hritan Iron & Steel  -> sales@hritansteel.com.iq
+SENT    ar  Al Sultan Group  -> info@alsultan-group.net
+SENT    ar  Iraqi Hadeed  -> info@iraqishaded.com
+SENT    ar  Al-Rasheed International Trading  -> pr@rasheedtrading.com
+SKIP    ckb Meskent Group  -> info@meskent-group.com  (already)
+SKIP    ckb Darin Steel  -> info@darinsteel.com  (already)
+SKIP    ckb Halkawt Steel  -> info@halkawtsteel.com  (already)
+SKIP    ckb Hritan Iron & Steel  -> info@hritansteel.com.iq  (already)
+SKIP    ckb Hritan Iron & Steel  -> manager@hritansteel.com.iq  (already)
+SKIP    ckb Hritan Iron & Steel  -> sales@hritansteel.com.iq  (already)
+SKIP    ar  Al Sultan Group  -> info@alsultan-group.net  (already)
+SKIP    ar  Iraqi Hadeed  -> info@iraqishaded.com  (already)
+SKIP    ar  Al-Rasheed International Trading  -> pr@rasheedtrading.com  (already)
+FAIL    ar  Al-Rasheed International Trading  -> rasheed@rasheedtrading.com  | TimeoutError(10060, 'A connection attempt failed because the connected party did
+FAIL    ar  AL-Fairoz Al-Thahabi  -> info@fairozthahabi.com  | TimeoutError(10060, 'A connection attempt failed because the connected party did
+FAIL    ar  Khan Alhadeed  -> info@khanalhadeed.com.iq  | TimeoutError(10060, 'A connection attempt failed because the connected party did
+FAIL    ar  Maalim Al-Asima  -> husseinsalm30@gmail.com  | TimeoutError(10060, 'A connection attempt failed because the connected party did
+FAIL    ar  Bilad Alwafaa  -> biladalwafaaco@gmail.com  | TimeoutError(10060, 'A connection attempt failed because the connected party did
+FAIL    ar  Alam Al-Hadid  -> info@alamalhadid.com  | TimeoutError(10060, 'A connection attempt failed because the connected party did
+FAIL    ar  Basra Steel Galvanizing  -> info@basra-galvanizing.com  | TimeoutError(10060, 'A connection attempt failed because the connected party did
+FAIL    ar  Basra Steel Galvanizing  -> omar.jamal@basra-galvanizing.com  | TimeoutError(10060, 'A connection attempt failed because the connected party did
+FAIL    ar  Steel Syria  -> info@steel-syria.com  | TimeoutError(10060, 'A connection attempt failed because the connected party did
+FAIL    ar  Steel Syria  -> sales@steel-syria.com  | TimeoutError(10060, 'A connection attempt failed because the connected party did
+FAIL    ar  Isnad  -> sales@isnad-sy.com  | TimeoutError(10060, 'A connection attempt failed because the connected party did
+FAIL    ar  Mediterranean Steel  -> info@med-steel.com  | TimeoutError(10060, 'A connection attempt failed because the connected party did
+TOTAL NEW SENT: 0
+SKIP    ckb Meskent Group  -> info@meskent-group.com  (already)
+SKIP    ckb Darin Steel  -> info@darinsteel.com  (already)
+SKIP    ckb Halkawt Steel  -> info@halkawtsteel.com  (already)
+SKIP    ckb Hritan Iron & Steel  -> info@hritansteel.com.iq  (already)
+SKIP    ckb Hritan Iron & Steel  -> manager@hritansteel.com.iq  (already)
+SKIP    ckb Hritan Iron & Steel  -> sales@hritansteel.com.iq  (already)
+SKIP    ar  Al Sultan Group  -> info@alsultan-group.net  (already)
+SKIP    ar  Iraqi Hadeed  -> info@iraqishaded.com  (already)
+SKIP    ar  Al-Rasheed International Trading  -> pr@rasheedtrading.com  (already)
+FAIL    ar  Al-Rasheed International Trading  -> rasheed@rasheedtrading.com  | TimeoutError(10060, 'A connection attempt failed because the connected party did
+FAIL    ar  AL-Fairoz Al-Thahabi  -> info@fairozthahabi.com  | TimeoutError(10060, 'A connection attempt failed because the connected party did
+FAIL    ar  Khan Alhadeed  -> info@khanalhadeed.com.iq  | TimeoutError(10060, 'A connection attempt failed because the connected party did
+FAIL    ar  Maalim Al-Asima  -> husseinsalm30@gmail.com  | TimeoutError(10060, 'A connection attempt failed because the connected party did
+FAIL    ar  Bilad Alwafaa  -> biladalwafaaco@gmail.com  | TimeoutError(10060, 'A connection attempt failed because the connected party did
+FAIL    ar  Alam Al-Hadid  -> info@alamalhadid.com  | TimeoutError(10060, 'A connection attempt failed because the connected party did
+FAIL    ar  Basra Steel Galvanizing  -> info@basra-galvanizing.com  | TimeoutError(10060, 'A connection attempt failed because the connected party did
+FAIL    ar  Basra Steel Galvanizing  -> omar.jamal@basra-galvanizing.com  | TimeoutError(10060, 'A connection attempt failed because the connected party did
+FAIL    ar  Steel Syria  -> info@steel-syria.com  | TimeoutError(10060, 'A connection attempt failed because the connected party did
+FAIL    ar  Steel Syria  -> sales@steel-syria.com  | TimeoutError(10060, 'A connection attempt failed because the connected party did
+FAIL    ar  Isnad  -> sales@isnad-sy.com  | TimeoutError(10060, 'A connection attempt failed because the connected party did
+FAIL    ar  Mediterranean Steel  -> info@med-steel.com  | TimeoutError(10060, 'A connection attempt failed because the connected party did
+TOTAL NEW SENT: 0

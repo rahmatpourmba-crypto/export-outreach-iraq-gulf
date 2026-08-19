@@ -1,0 +1,39 @@
+واتساپ خودرو (Selenium real send) - 2026-08-16 23:07
+============================================================
+FAIL    ckb Al Uroush (BMW)  9647813777777  NO_INPUT
+FAIL    ckb Muhanad Cars - Erbil  9647503334400  NO_INPUT
+FAIL    ckb Muhanad Cars - Sulaymaniyah  9647509403232  NO_INPUT
+FAIL    ckb Muhanad Cars - Duhok  9647505004422  NO_INPUT
+FAIL    ckb Sardar - Erbil  9647507104444  NO_INPUT
+FAIL    ckb Sardar - Erbil 2  9647501266666  NO_INPUT
+FAIL    ckb Sardar - Sulaymaniyah  9647714454444  NO_INPUT
+FAIL    ckb Sardar - Duhok  9647505154444  NO_INPUT
+FAIL    ckb Bajger / Geely  9647505300000  NO_INPUT
+ERR     ckb Cihan Motors - Erbil  9647505871212  Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=151.0
+FAIL    ckb Cihan Motors - Sulaymaniyah  9647502631212  NO_INPUT
+ERR     ckb Cihan Motors - Duhok  9647703451212  Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=151.0
+ERR     ckb Suzuki Iraq  9647708446622  Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=151.0
+ERR     ckb Mahroos Motors  9647503454544  Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=151.0
+ERR     ckb Mahroos Motors 2  9647505359999  Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=151.0
+ERR     ckb Friend Car (FCG)  9647704452014  Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=151.0
+ERR     ckb Frias Trading  9647501401000  Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=151.0
+ERR     ckb DongFeng Iraq  9647728890022  Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=151.0
+ERR     ckb Hyundai AltSak  9647502271000  Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=1
+ERR     ckb Hyundai AltSak 2  9647740000902  Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=1
+ERR     ckb Alobaidi Motors  9647701401700  Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=1
+ERR     fa  بازرگانی سلامی  989148898297  Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=1
+ERR     fa  بازرگانی سلامی 2  989214112732  Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=1
+DONE

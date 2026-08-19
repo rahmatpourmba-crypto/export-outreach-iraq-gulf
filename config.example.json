@@ -1,0 +1,15 @@
+{
+  "gmail": {
+    "user": "your.email@gmail.com",
+    "app_password": "YOUR_16_CHAR_APP_PASSWORD"
+  },
+  "telegram": {
+    "bot_token": "123456789:YOUR_BOT_TOKEN",
+    "channel_id": "-1001234567890"
+  },
+  "candidate": {
+    "name": "عەبدولباسیت ڕەحمەتپوور",
+    "phone": "+989141688217",
+    "email": "your.email@gmail.com"
+  }
+}
