@@ -1,0 +1,21 @@
+پلتفرم‌های دورکاری - 2026-08-19 22:40
+============================================================
+SENT    FlexJobs  -> support@flexjobs.com
+SENT    We Work Remotely  -> support@weworkremotely.com
+SENT    Remote.co  -> info@remote.co
+SENT    DailyRemote  -> contact@dailyremote.com
+SENT    Himalayas  -> hi@himalayas.app
+SENT    Wellfound  -> team@wellfound.com
+SENT    RemoteOK  -> hello@remoteok.com
+SENT    Remotive  -> hello@remotive.com
+SENT    Toptal  -> support@toptal.com
+SENT    Freelancer.com  -> support@freelancer.com
+SENT    Fiverr  -> support@fiverr.com
+SENT    99designs  -> support@99designs.com
+SENT    Designhill  -> support@designhill.com
+SENT    Dribbble  -> contact@dribbble.com
+SENT    Working Not Working  -> hello@workingnotworking.com
+SENT    Guru.com  -> contactus@guru.com
+SENT    PeoplePerHour  -> support@peopleperhour.com
+SENT    ProZ.com  -> support@proz.com
+TOTAL SENT: 18
