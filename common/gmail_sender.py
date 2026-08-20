@@ -1,8 +1,9 @@
 import smtplib
 from email.message import EmailMessage
+import os
 
 
-def send_email(gmail_cfg, to, subject, body, lang, timeout=60):
+def send_email(gmail_cfg, to, subject, body, lang, timeout=60, attachment=None):
     msg = EmailMessage()
     msg["Subject"] = subject
     msg["From"] = f'<{gmail_cfg["user"]}>'
@@ -14,6 +15,15 @@ def send_email(gmail_cfg, to, subject, body, lang, timeout=60):
         f'<div dir="rtl" lang="{lang}" style="font-family:Tahoma,Arial;font-size:14px;line-height:1.8">{html}</div>',
         subtype="html",
     )
+    if attachment and os.path.exists(attachment):
+        with open(attachment, "rb") as f:
+            data = f.read()
+        msg.add_attachment(
+            data,
+            maintype="application",
+            subtype="pdf",
+            filename=os.path.basename(attachment),
+        )
     with smtplib.SMTP("smtp.gmail.com", 587, timeout=timeout) as srv:
         srv.ehlo()
         srv.starttls()
